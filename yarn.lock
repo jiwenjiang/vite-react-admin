@@ -478,14 +478,6 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.0.tgz"
   integrity sha512-wdppn25U8z/2yiaT6YGquE6X8sSv7hNMWSXYSSU1jGv/yd6XqjXgTDJ8KP4NgjTXfJ3GbRjeeb8RTV7a/VpM+w==
 
-"@jbleach/react-video-recorder@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.npmjs.org/@jbleach/react-video-recorder/-/react-video-recorder-0.0.3.tgz#19c6dd15ae100a6310c7d8f9b54bf88b19ae80ec"
-  integrity sha512-AvX5S6tdvS0+J0UfcCjPkICG3K4gQssGClwWm8AoNZ0+qoGX9XXJE66G3I4FoU4QtaYgqwtswb6ZGgc55CWd2Q==
-  dependencies:
-    fix-webm-duration "^1.0.4"
-    react-svg-inline "^2.1.0"
-
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"
@@ -506,11 +498,6 @@
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
-
-"@react-vant/icons@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.npmmirror.com/@react-vant/icons/-/icons-0.0.6.tgz"
-  integrity sha512-E60Xu2QU8I+OwGGGA6zbED1JVjiih00QEHNrf5DfZ5cCaFb9PmksAzFPVLkuFMkiFNblUfR3NyE59cdsv/91qg==
 
 "@rollup/pluginutils@^4.1.0":
   version "4.1.0"
@@ -1577,11 +1564,6 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-fix-webm-duration@^1.0.4:
-  version "1.0.5"
-  resolved "https://registry.npmjs.org/fix-webm-duration/-/fix-webm-duration-1.0.5.tgz#da4558a92196a677302bfc54780b494dd5336a96"
-  integrity sha512-b6oula3OfSknx0aWoLsxvp4DVIYbwsf+UAkr6EDAK3iuMYk/OSNKzmeSI61GXK0MmFTEuzle19BPvTxMIKjkZg==
-
 flat-cache@^3.0.4:
   version "3.0.4"
   resolved "https://registry.npmjs.org/flat-cache/-/flat-cache-3.0.4.tgz"
@@ -2452,15 +2434,6 @@ progress@^2.0.0:
   resolved "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
-prop-types@^15.5.8:
-  version "15.8.1"
-  resolved "https://registry.npmmirror.com/prop-types/download/prop-types-15.8.1.tgz"
-  integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
-  dependencies:
-    loose-envify "^1.4.0"
-    object-assign "^4.1.1"
-    react-is "^16.13.1"
-
 prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.npmjs.org/prop-types/-/prop-types-15.7.2.tgz"
@@ -2883,7 +2856,7 @@ react-dom@^17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
-react-is@^16.12.0, react-is@^16.13.1, react-is@^16.7.0, react-is@^16.8.1:
+react-is@^16.12.0, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
@@ -2907,14 +2880,6 @@ react-router@6.2.1:
   integrity sha512-2fG0udBtxou9lXtK97eJeET2ki5//UWfQSl1rlJ7quwe6jrktK9FCCc8dQb5QY6jAv3jua8bBQRhhDOM/kVRsg==
   dependencies:
     history "^5.2.0"
-
-react-svg-inline@^2.1.0:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/react-svg-inline/-/react-svg-inline-2.1.1.tgz#532664006bf5b4f9ca2879d185e546df9a7476ef"
-  integrity sha512-mN7/qwq133dHMMQdtJRMtZ6tK1ynzOJMZBKR34blzv3HqQpNBsaOKXkEe1kN14hcJJhzrUbsB+uix2ZOpF4kQg==
-  dependencies:
-    classnames "^2.2.1"
-    prop-types "^15.5.8"
 
 react@^17.0.2:
   version "17.0.2"

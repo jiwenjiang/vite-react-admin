@@ -12,8 +12,6 @@
     "copy": "cp MP_verify_d3J4b6PfhxD8f4H7.txt dist/"
   },
   "dependencies": {
-    "@jbleach/react-video-recorder": "^0.0.3",
-    "@react-vant/icons": "^0.0.6",
     "@vitejs/plugin-legacy": "^1.7.1",
     "antd": "^4.23.6",
     "echarts": "^5.3.1",
